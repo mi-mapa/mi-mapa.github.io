@@ -1,8 +1,13 @@
 {
-  "format": "hoy",
-  "date": "2026-09-09",
-  "caption": "Hoy es un buen día para depurar.\n\nTermina pendientes, ordena archivos o quita de tu agenda lo que ya estorba.\n\nEl animal del día es Perro. En tu carta puedes ver cómo esta fecha se relaciona contigo.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
+  "format": "semana-b",
+  "date": "2026-09-10",
+  "caption": "Esta semana, cada animal tiene recomendaciones distintas. Busca el tuyo por año de nacimiento y descubre el resto de tu carta gratis en MI MAPA.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
   "items": [
-    "hoy-2026-09-09-1.jpg"
+    "semana-b-2026-09-10-1.jpg",
+    "semana-b-2026-09-10-2.jpg",
+    "semana-b-2026-09-10-3.jpg",
+    "semana-b-2026-09-10-4.jpg",
+    "semana-b-2026-09-10-5.jpg",
+    "semana-b-2026-09-10-6.jpg"
   ]
 }
