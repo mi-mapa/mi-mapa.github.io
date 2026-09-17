@@ -1,13 +1,8 @@
 {
-  "format": "semana-b",
+  "format": "hoy",
   "date": "2026-09-17",
-  "caption": "Esta semana, cada animal tiene recomendaciones distintas. Busca el tuyo por año de nacimiento y descubre el resto de tu carta gratis en MI MAPA.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
+  "caption": "Hoy es un buen día para recibir.\n\nPide respuestas, cobra pendientes o revisa lo que llegó.\n\nEl animal del día es Caballo. En tu carta puedes ver cómo esta fecha se relaciona contigo.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
   "items": [
-    "semana-b-2026-09-17-1.jpg",
-    "semana-b-2026-09-17-2.jpg",
-    "semana-b-2026-09-17-3.jpg",
-    "semana-b-2026-09-17-4.jpg",
-    "semana-b-2026-09-17-5.jpg",
-    "semana-b-2026-09-17-6.jpg"
+    "hoy-2026-09-17-1.jpg"
   ]
 }
