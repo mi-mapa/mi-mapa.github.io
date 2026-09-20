@@ -1,8 +1,13 @@
 {
-  "format": "hoy",
-  "date": "2026-09-19",
-  "caption": "Hoy es un buen día para descansar.\n\nHaz menos, termina pendientes pequeños y deja tiempo libre en tu agenda.\n\nEl animal del día es Mono. En tu carta puedes ver cómo esta fecha se relaciona contigo.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
+  "format": "semana-a",
+  "date": "2026-09-20",
+  "caption": "Esta semana, cada animal tiene recomendaciones distintas. Busca el tuyo por año de nacimiento y descubre el resto de tu carta gratis en MI MAPA.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
   "items": [
-    "hoy-2026-09-19-1.jpg"
+    "semana-a-2026-09-20-1.jpg",
+    "semana-a-2026-09-20-2.jpg",
+    "semana-a-2026-09-20-3.jpg",
+    "semana-a-2026-09-20-4.jpg",
+    "semana-a-2026-09-20-5.jpg",
+    "semana-a-2026-09-20-6.jpg"
   ]
 }
