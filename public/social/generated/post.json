@@ -1,8 +1,13 @@
 {
-  "format": "hoy",
-  "date": "2026-10-24",
-  "caption": "Hoy es un buen día para recibir.\n\nPide respuestas, cobra pendientes o revisa lo que llegó.\n\nEl animal del día es Cabra. En tu carta puedes ver cómo esta fecha se relaciona contigo.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
+  "format": "semana-a",
+  "date": "2026-10-25",
+  "caption": "Esta semana, cada animal tiene recomendaciones distintas. Busca el tuyo por año de nacimiento y descubre el resto de tu carta gratis en MI MAPA.\n\nDescubre tu carta completa gratis en mi-mapa.github.io.",
   "items": [
-    "hoy-2026-10-24-1.jpg"
+    "semana-a-2026-10-25-1.jpg",
+    "semana-a-2026-10-25-2.jpg",
+    "semana-a-2026-10-25-3.jpg",
+    "semana-a-2026-10-25-4.jpg",
+    "semana-a-2026-10-25-5.jpg",
+    "semana-a-2026-10-25-6.jpg"
   ]
 }
